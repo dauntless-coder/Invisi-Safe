@@ -26,11 +26,12 @@ Maven – for managing dependencies
 File Handling & Basic Encryption
 
 🚀 Getting Started
-Clone the repo
 
-Configure MySQL DB credentials
+💡Clone the repo
 
-Set up email credentials in the code (for OTP)
+💡Configure MySQL DB credentials
+
+💡Set up email credentials in the code (for OTP)
 
 Run using any Java IDE with Maven support
 
