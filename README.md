@@ -33,7 +33,7 @@ File Handling & Basic Encryption
 
 💡Set up email credentials in the code (for OTP)
 
-Run using any Java IDE with Maven support
+💡Run using any Java IDE with Maven support
 
 ✅ Future Enhancements
 1. Stronger encryption (AES)
