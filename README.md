@@ -1,4 +1,4 @@
-🛡️ InvisiSafe – File Hider with Encryption & OTP Verification
+🛡️ InvisiSafe – File Hider with Encryption & OTP Verification.
 InvisiSafe is a secure file-hiding desktop application built with Java. It allows users to hide sensitive files, encrypt them, and enable access only through OTP verification sent via email.
 
 🔧 Features
